@@ -20,5 +20,11 @@ li{
     margin-right: 50px;
     gap: 6em;
 }
+.menu{
+    padding: 6px 14px;
+}
+.menu li{
+    padding: 6px 14px;
+}
 
 
