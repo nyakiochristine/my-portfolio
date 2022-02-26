@@ -1,5 +1,24 @@
 *{
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border
 }
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:rgb(184, 82, 104);
+    color:white;
+}
+li{
+    list-style: none;
+}
+.menu{
+    display: flex;
+    font-size: 20px;
+    margin-right: 50px;
+    gap: 6em;
+}
+
+
