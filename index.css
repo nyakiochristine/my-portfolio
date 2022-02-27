@@ -3,13 +3,22 @@
     margin: 0;
     box-sizing: border
 }
+.container{
+    background-image:url(data:image/jpeg;base64,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);
+    background-repeat: no-repeat;
+    background-size: cover;
+     height:100vh;
+     max-width: 100%;
+}
+
+
 .navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-    background-color:rgb(184, 82, 104);
-    color:white;
+    background-color:#8a2f4ae8;
+    color: white;
 }
 li{
     list-style: none;
@@ -26,5 +35,40 @@ li{
 .menu li{
     padding: 6px 14px;
 }
+h1{
+    font-style: oblique;
+    color: #8a2f4ae8;
+    
+}
+.name{
+    margin-top: 8%;
+    margin-left: 8%;
+    font-size: 30px;
+}
+.name button{
+    background-color:#8a2f4ae8;
+    border-style: none;
+    padding: 20px;
+    margin-left: 70px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+}
+.intro{
+    display: flex;
+    color: white;
+}
+.kris{
+    margin: 100px;
+    border: 1px solid;
+    margin-left: 500px;
+    box-shadow: 10px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+}
+
+
+
 
 
