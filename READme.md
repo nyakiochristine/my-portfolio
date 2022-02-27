@@ -41,7 +41,6 @@
 
 MIT License
 
-
 Copyright (c) [2022] [Christine Mwangi]## Author's Info
 
 Email address - (christine.mwangi@student.moringaschool.com)
