@@ -10,6 +10,13 @@
      height:120vh;
      max-width: 100%;
 }
+.headerlogo{
+    font-size: 33px;
+}
+#logoname{
+    color: #da416fe8;
+    font-size: 30px;
+}
 
 
 .navbar{
@@ -99,6 +106,7 @@ h2{
     height: 50px;
     width:200px;
     border-style: none;
+    text-align: center;
 
 }
 .cont p{
@@ -117,7 +125,8 @@ h2{
     justify-items: center;
     width: 300px;
     border-radius: 20px;
-    background: #8a2f4ae8;
+    background:#da416fe8;
+    border-style: none;
 }
 .book{
     text-align: center;
@@ -127,6 +136,11 @@ h2{
 }
 .cont a{
     color: whitesmoke;
+}
+.card1 a{
+    background: rgb(134, 10, 85);
+    border-radius: 10px;
+    
 }
 
 
