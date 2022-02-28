@@ -77,15 +77,61 @@ h2{
     font-size: 22px;
     /*height:40vh*/
     padding: 40px;
-    text-align: center;
+    text-align:justify;
     color:black;
+    background:#8a2f4ae8;
 
     
 }
-.abt{
-    display: flex;
-    justify-content: space-between;
+h2{
+    text-align: center;
 }
+  
+.project{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+     
+.cont{
+    padding: 5px;
+    border-radius: 5px;
+    height: 50px;
+    width:200px;
+    border-style: none;
+
+}
+.cont p{
+    font-size: 25px;
+}
+.card1 img{
+    height: 120px;
+    width: 200px;
+    padding: 20px;
+}
+
+.card1{
+    box-shadow: 20px;
+    border: 1px solid black;
+    height: 400px;
+    justify-items: center;
+    width: 300px;
+    border-radius: 20px;
+    background: #8a2f4ae8;
+}
+.book{
+    text-align: center;
+}
+.book h2{
+    padding-top: 50px;
+}
+.cont a{
+    color: whitesmoke;
+}
+
+
+
+
 
 
 
