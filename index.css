@@ -118,6 +118,7 @@ h2{
     width: 300px;
     border-radius: 20px;
     background: #8a2f4ae8;
+    border-style: none;
 }
 .book{
     text-align: center;
