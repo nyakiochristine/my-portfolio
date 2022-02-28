@@ -10,6 +10,13 @@
      height:120vh;
      max-width: 100%;
 }
+.headerlogo{
+    font-size: 33px;
+}
+#logoname{
+    color: #da416fe8;
+    font-size: 30px;
+}
 
 
 .navbar{
